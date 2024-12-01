@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.46961403.css",
+    "main.js": "/MyPortfolio/static/js/main.d608cbd3.js",
+    "static/media/Hello.gif": "/MyPortfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Shivam_Jha_Resume.pdf": "/MyPortfolio/static/media/Shivam_Jha_Resume.94e5d1535ba6a3d2f71a.pdf",
+    "static/media/ShivamJha.jpg": "/MyPortfolio/static/media/ShivamJha.e40d3498c5c848730bb0.jpg",
+    "static/media/illustration.svg": "/MyPortfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/MyPortfolio/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
+    "static/media/mysql-icon.svg": "/MyPortfolio/static/media/mysql-icon.64f88a817c7f8c20c853ea3acbca9310.svg",
+    "static/media/kubernetes-svgrepo-com.svg": "/MyPortfolio/static/media/kubernetes-svgrepo-com.7b47aa9cd0c59fc8b498aa6da8ce2f07.svg",
+    "static/media/docker-svgrepo-com (1).svg": "/MyPortfolio/static/media/docker-svgrepo-com (1).bbfd8644fb9bf57f1dd5cbbb5c43c395.svg",
+    "static/media/node-icon.svg": "/MyPortfolio/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/typescript-icon.svg": "/MyPortfolio/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/whatsapp.svg": "/MyPortfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/MyPortfolio/static/media/bootstrap-icon.09b773cc0f17dc078cc9864e5e8006ba.svg",
+    "static/media/react-icon.svg": "/MyPortfolio/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "static/media/azure-icon.svg": "/MyPortfolio/static/media/azure-icon.da9825a34efd3f9911bafeb25981df6d.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "static/media/telegram.svg": "/MyPortfolio/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/instagram.svg": "/MyPortfolio/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/phone-icon.svg": "/MyPortfolio/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/github.svg": "/MyPortfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/MyPortfolio/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/external-link.svg": "/MyPortfolio/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
+    "static/media/html-icon.svg": "/MyPortfolio/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/MyPortfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/linkedin.svg": "/MyPortfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/MyPortfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "static/media/vue-icon.svg": "/MyPortfolio/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
+    "main.46961403.css.map": "/MyPortfolio/static/css/main.46961403.css.map",
+    "main.d608cbd3.js.map": "/MyPortfolio/static/js/main.d608cbd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46961403.css",
+    "static/js/main.d608cbd3.js"
+  ]
+}
