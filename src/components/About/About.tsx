@@ -33,7 +33,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          I’m experienced in cloud technologies, including Azure CI/CD pipelines, AWS S3, and Microsoft Blob Storage, for efficient file storage and management. I’ve worked on advanced integrations like Outlook and ensure top-notch data security using encryption standards like AES-256 and RSA-256.</p>
+          I’m experienced in cloud technologies, including Azure CI/CD pipelines, AWS S3, and Azure Blob Storage, for efficient file storage and management. I’ve worked on advanced integrations like Outlook and ensure top-notch data security using encryption standards like AES-256, RSA-256 and JWE</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>

@@ -15,9 +15,10 @@ export function Project() {
           <div className="project">
             <header>
             <img 
-                src="https://www.motilaloswalmf.com/assets/images/prelogin-header/moamc-mf-logo-new.png" 
-                alt="Medefer Logo" 
-                width="140" 
+                //src="https://www.motilaloswalmf.com/assets/images/prelogin-header/moamc-mf-logo-new.png" 
+                src = "https://www.motilaloswalmf.com/reporthub/assets/MO_Asset_Management_Logo-DwyHcVGl.webp"
+                alt="MOAMC Logo" 
+                width="100" 
                 height="50" 
                 //style={{ marginLeft: "-37px" }} 
               />
@@ -31,8 +32,8 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>Motilal Oshwal Asset Management Company</h3>
-              <p> Developed a comprehensive asset management platform tailored for Motilal Oshwal Asset Management Company (AMC), providing investors with robust tools for managing mutual funds, tracking portfolio performance, and conducting in-depth market analysis. </p>
+              <h3>Motilal Oswal Asset Management Company</h3>
+              <p> Developed a comprehensive asset management platform tailored for Motilal Oswal Asset Management Company (AMC), providing investors with robust tools for managing mutual funds, tracking portfolio performance, and conducting in-depth market analysis. </p>
             </div>
             <footer> <ul className="tech-list"> <li>AWS S3</li> <li>.NET Core</li> <li>MS SQL</li><li>MONGO DB</li><li>Cryptography</li><li>Hangfire</li></ul> </footer>
           </div>
