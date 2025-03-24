@@ -51,7 +51,7 @@ This project leverages a powerful stack to ensure scalability and style:
 ## 🌐 **Live Preview**
 
 Check out the live version of my portfolio:  
-[**Live Preview**](https://shivamjha019.github.io/portfolio)  
+[**Live Preview**](https://shivamjha019.github.io/MyPortfolio)  
 Click the link to explore my work in action!
 
 ---
