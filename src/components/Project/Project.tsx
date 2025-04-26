@@ -3,7 +3,7 @@ import githubIcon from "../../assets/github.svg"
 // import DownloadApp from '../../assets/download.png'
 import externalLink from "../../assets/external-link.svg"
 import ScrollAnimation from "react-animate-on-scroll";
-
+import whiteHatJr from '../../assets/WhitehatJr.png'
 
 export function Project() {
   return (
@@ -188,7 +188,7 @@ export function Project() {
               <li>C#</li>
               <li>ADO.NET</li>
               <li>SQL</li>
-              <li>Angular</li>
+              <li>Blazor</li>
               </ul>
             </footer>
           </div>
@@ -268,7 +268,7 @@ export function Project() {
           <div className="project">
             <header>
             <img 
-              src="https://s3-cdnwhjr.whjr.online/website/desktop/logo_whjr.png" 
+              src={whiteHatJr} 
               alt="WhiteHat Jr Logo" 
               width="160" 
               height="50" 
