@@ -14,21 +14,44 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
+              <img
+                src="https://static.xx.fbcdn.net/rsrc.php/y3/r/y6QsbGgc866.svg"
+                alt="Meta Logo"
+                width="100"
+                height="50"
+              />
+              <div className="project-links">
+                <a href="https://www.meta.com" target="_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>Meta</h3>
+              <p> Meta Platforms, Inc. is a leading American multinational technology company known for Facebook, Instagram, WhatsApp, and advancing the metaverse through augmented and virtual reality. As a Software Engineer at Meta, I leverage modern technologies and AI to build scalable web applications, drive productivity, and deliver innovative solutions across front-end, back-end, and cloud environments. </p>
+            </div>
+            <footer> <ul className="tech-list"> <li>PHP</li> <li>Hack</li> <li>MySQL</li><li>React</li><li>Relay</li><li>GraphQL</li></ul> </footer>
+          </div>
+        </ScrollAnimation>
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <img
                 //src="https://www.motilaloswalmf.com/assets/images/prelogin-header/moamc-mf-logo-new.png" 
-                src = "https://www.motilaloswalmf.com/reporthub/assets/MO_Asset_Management_Logo-DwyHcVGl.webp"
-                alt="MOAMC Logo" 
-                width="100" 
-                height="50" 
-                //style={{ marginLeft: "-37px" }} 
+                src="https://www.motilaloswalmf.com/reporthub/assets/MO_Asset_Management_Logo-DwyHcVGl.webp"
+                alt="MOAMC Logo"
+                width="100"
+                height="50"
+              //style={{ marginLeft: "-37px" }} 
               />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"> <title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg> */}
               <div className="project-links">
                 {/* <a href="https://github.com/Shivamjha019/gitrepo" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /></a> */}
-                 <a href="https://www.motilaloswalmf.com" target="_blank" rel="noreferrer">
+                <a href="https://www.motilaloswalmf.com" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
-                 </a>
+                </a>
               </div>
             </header>
             <div className="body">
@@ -42,12 +65,12 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
-                src="https://fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com/536979c0eed45c9d8fd0bf89a9080b7468614f925371077577ff74d4b0b287d4/f_marketingpicFull/u_6660f6084c0e887c39296c2fad77d16115b1fcf3c4d99eb0df6f826060a391f3/img_o7linohhnj_bab63f327562d3846d04e5d56c79da0d9a75f318344946dd2af58f6faf96339c.png" 
-                alt="Medefer Logo" 
-                width="60" 
-                height="50" 
-                //style={{ marginLeft: "-37px" }} 
+              <img
+                src="https://fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com/536979c0eed45c9d8fd0bf89a9080b7468614f925371077577ff74d4b0b287d4/f_marketingpicFull/u_6660f6084c0e887c39296c2fad77d16115b1fcf3c4d99eb0df6f826060a391f3/img_o7linohhnj_bab63f327562d3846d04e5d56c79da0d9a75f318344946dd2af58f6faf96339c.png"
+                alt="Medefer Logo"
+                width="60"
+                height="50"
+              //style={{ marginLeft: "-37px" }} 
               />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg> */}
               <div className="project-links">
@@ -65,12 +88,12 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-              <li>.NET 3.1</li>
-              <li>Entity Framework</li>
-              <li>Azure SQL</li>
-              <li>MVC</li>
-              <li>ABP</li>
-              <li>Hangfire</li>
+                <li>.NET 3.1</li>
+                <li>Entity Framework</li>
+                <li>Azure SQL</li>
+                <li>MVC</li>
+                <li>ABP</li>
+                <li>Hangfire</li>
               </ul>
             </footer>
           </div>
@@ -79,12 +102,12 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
-                src="https://conveloins.com/wp-content/themes/convelo-theme/assets/img/svg/logo.svg" 
-                alt="Convelo Logo" 
-                width="150" 
-                height="50" 
-                //style={{ marginLeft: "-20px" }} 
+              <img
+                src="https://conveloins.com/wp-content/themes/convelo-theme/assets/img/svg/logo.svg"
+                alt="Convelo Logo"
+                width="150"
+                height="50"
+              //style={{ marginLeft: "-20px" }} 
               />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
                 <title>Folder</title>
@@ -107,12 +130,12 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-              <li>.NET 6</li>
-              <li>C#</li>
-              <li>ADO.NET</li>
-              <li>MS SQL</li>
-              <li>Angular</li>
-              <li>CQRS</li>
+                <li>.NET 6</li>
+                <li>C#</li>
+                <li>ADO.NET</li>
+                <li>MS SQL</li>
+                <li>Angular</li>
+                <li>CQRS</li>
               </ul>
             </footer>
           </div>
@@ -121,12 +144,12 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <img 
-                src="https://lambis.com/wp-content/uploads/2023/05/logo-sticky.svg" 
-                alt="LAMB Logo" 
-                width="150" 
-                height="50" 
-                style={{ marginLeft: "-37px" }} 
+              <img
+                src="https://lambis.com/wp-content/uploads/2023/05/logo-sticky.svg"
+                alt="LAMB Logo"
+                width="150"
+                height="50"
+                style={{ marginLeft: "-37px" }}
               />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> */}
               <div className="project-links">
@@ -144,12 +167,12 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-              <li>.NET 6</li>
-              <li>C#</li>
-              <li>ADO.NET</li>
-              <li>SQL</li>
-              <li>Angular</li>
-              <li>CQRS</li>
+                <li>.NET 6</li>
+                <li>C#</li>
+                <li>ADO.NET</li>
+                <li>SQL</li>
+                <li>Angular</li>
+                <li>CQRS</li>
               </ul>
             </footer>
           </div>
@@ -158,13 +181,13 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
-              src="https://www.mars.com/themes/custom/mars_acss/assets/images/logo-main.svg" 
-              alt="MARS Logo" 
-              width="100" 
-              height="40" 
+              <img
+                src="https://www.mars.com/themes/custom/mars_acss/assets/images/logo-main.svg"
+                alt="MARS Logo"
+                width="100"
+                height="40"
               // style={{ marginLeft: "-25px" }} 
-            />
+              />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
                 <title>Folder</title>
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
@@ -184,11 +207,11 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-              <li>.NET 6</li>
-              <li>C#</li>
-              <li>ADO.NET</li>
-              <li>SQL</li>
-              <li>Blazor</li>
+                <li>.NET 6</li>
+                <li>C#</li>
+                <li>ADO.NET</li>
+                <li>SQL</li>
+                <li>Blazor</li>
               </ul>
             </footer>
           </div>
@@ -197,13 +220,13 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
-              src="https://www.sabic.com/en/Images/SABIC-LOGO_tcm1010-14323.svg" 
-              alt="SABIC Logo" 
-              width="150" 
-              height="50" 
-              style={{ marginLeft: "-25px" }} 
-            />
+              <img
+                src="https://www.sabic.com/en/Images/SABIC-LOGO_tcm1010-14323.svg"
+                alt="SABIC Logo"
+                width="150"
+                height="50"
+                style={{ marginLeft: "-25px" }}
+              />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> */}
               <div className="project-links">
                 <a href="https://www.sabic.com" target="_blank" rel="noreferrer">
@@ -219,11 +242,11 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-              <li>.NET 6</li>
-              <li>C#</li>
-              <li>ADO.NET</li>
-              <li>MS SQL</li>
-              <li>React</li>
+                <li>.NET 6</li>
+                <li>C#</li>
+                <li>ADO.NET</li>
+                <li>MS SQL</li>
+                <li>React</li>
               </ul>
             </footer>
           </div>
@@ -232,13 +255,13 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
-              src="https://www.sabic.com/en/Images/SABIC-LOGO_tcm1010-14323.svg" 
-              alt="SABIC Logo" 
-              width="150" 
-              height="50" 
-              style={{ marginLeft: "-25px" }} 
-            />
+              <img
+                src="https://www.sabic.com/en/Images/SABIC-LOGO_tcm1010-14323.svg"
+                alt="SABIC Logo"
+                width="150"
+                height="50"
+                style={{ marginLeft: "-25px" }}
+              />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> */}
               <div className="project-links">
                 <a href="https://www.sabic.com" target="_blank" rel="noreferrer">
@@ -254,11 +277,11 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-              <li>.NET 6</li>
-              <li>C#</li>
-              <li>ADO.NET</li>
-              <li>MS SQL</li>
-              <li>React</li>
+                <li>.NET 6</li>
+                <li>C#</li>
+                <li>ADO.NET</li>
+                <li>MS SQL</li>
+                <li>React</li>
               </ul>
             </footer>
           </div>
@@ -267,12 +290,12 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
-              src={whiteHatJr} 
-              alt="WhiteHat Jr Logo" 
-              width="160" 
-              height="50" 
-            />
+              <img
+                src={whiteHatJr}
+                alt="WhiteHat Jr Logo"
+                width="160"
+                height="50"
+              />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> */}
               <div className="project-links">
                 <a href="https://www.whitehatjr.com" target="_blank" rel="noreferrer">
@@ -280,37 +303,37 @@ export function Project() {
                 </a>
               </div>
             </header>
-              <div className="body">
-                <h3>WhiteHat Jr</h3>
-                <p>
-                  Developed and secured RESTful APIs using .NET Core for high-performance
-                  web applications. Performed unit and integration testing to ensure
-                  quality across multiple devices. Secured sensitive data using
-                  encryption techniques. Optimized SQL Server schemas and queries for
-                  real-time data processing.
-                </p>
-              </div>
-              <footer>
-                <ul className="tech-list">
-                  <li>.NET Core</li>
-                  <li>C#</li>
-                  <li>ADO.NET</li>
-                  <li>React</li>
-                  <li>MS SQL Server</li>
-                </ul>
-              </footer>
+            <div className="body">
+              <h3>WhiteHat Jr</h3>
+              <p>
+                Developed and secured RESTful APIs using .NET Core for high-performance
+                web applications. Performed unit and integration testing to ensure
+                quality across multiple devices. Secured sensitive data using
+                encryption techniques. Optimized SQL Server schemas and queries for
+                real-time data processing.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>.NET Core</li>
+                <li>C#</li>
+                <li>ADO.NET</li>
+                <li>React</li>
+                <li>MS SQL Server</li>
+              </ul>
+            </footer>
           </div>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-            <img 
-              src="https://firstreliableindustries.com/wp-content/uploads/2023/06/First-Reliable-Site-Logo.png" 
-              alt="First Reliable Industries Logo" 
-              width="80" 
-              height="50" 
-            />
+              <img
+                src="https://firstreliableindustries.com/wp-content/uploads/2023/06/First-Reliable-Site-Logo.png"
+                alt="First Reliable Industries Logo"
+                width="80"
+                height="50"
+              />
               {/* <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> */}
               <div className="project-links">
                 <a href="https://www.firstreliableindustries.com" target="_blank" rel="noreferrer">
@@ -321,8 +344,8 @@ export function Project() {
             <div className="body">
               <h3>First Reliable Industries</h3>
               <p>
-                Developed a console application for the company to streamline production data analysis. 
-                Created dashboards and reports using Power BI and Excel, enabling management to make data-driven decisions. 
+                Developed a console application for the company to streamline production data analysis.
+                Created dashboards and reports using Power BI and Excel, enabling management to make data-driven decisions.
                 Contributed to automation and efficiency improvements in operational workflows.
               </p>
             </div>
@@ -460,7 +483,7 @@ export function Project() {
             </footer>
           </div>
         </ScrollAnimation> */}
-        
+
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
