@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.46961403.css",
-    "main.js": "/MyPortfolio/static/js/main.7f84655a.js",
+    "main.js": "/MyPortfolio/static/js/main.d22193a7.js",
     "static/media/Hello.gif": "/MyPortfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Shivam_Jha_Resume.pdf": "/MyPortfolio/static/media/Shivam_Jha_Resume.6a56e14c6974320da4e5.pdf",
     "static/media/ShivamJha.jpg": "/MyPortfolio/static/media/ShivamJha.e40d3498c5c848730bb0.jpg",
@@ -30,10 +30,10 @@
     "static/media/js-icon.svg": "/MyPortfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/vue-icon.svg": "/MyPortfolio/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
     "main.46961403.css.map": "/MyPortfolio/static/css/main.46961403.css.map",
-    "main.7f84655a.js.map": "/MyPortfolio/static/js/main.7f84655a.js.map"
+    "main.d22193a7.js.map": "/MyPortfolio/static/js/main.d22193a7.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.7f84655a.js"
+    "static/js/main.d22193a7.js"
   ]
 }
